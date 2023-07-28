@@ -1,1 +1,2 @@
-# refcodegan
+# 데이터 수집에 필요한 코드
+ L sdf
