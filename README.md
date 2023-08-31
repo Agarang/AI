@@ -110,20 +110,20 @@
   </tr>
   <tr>
     <td align="center">
-      <p>아이디어 구상 및 기획, 데이터 수집, StyleGAN2-ADA 모델 설계</p>
+      <p>아이디어 구상 및 기획, 데이터 수집 & 전처리, StyleGAN2-ADA 모델 설계</p>
     </td>
     <td align="center">
-      <p>아이디어 기획, StyleGAN2-ADA 모델 설계</p>
+      <p>아이디어 기획, 데이터 전처리, StyleGAN2-ADA 모델 설계</p>
     </td>
     <td align="center">
-      <p>StyleGAN2-ADA 모델 설계, 챗봇 서비스 개발</p>
+      <p>데이터 전처리, StyleGAN2-ADA 모델 설계, 챗봇 서비스 개발</p>
     </td>
     <td align="center">
       <p>UX/UI 디자인</p>
-      <p>React Native를 이용한 크로스 플랫폼 어플리케이션 개발</p>
+      <p>데이터 전처리, React Native를 이용한 크로스 플랫폼 어플리케이션 개발</p>
     </td>
     <td align="center">
-      <p>서비스 아키텍쳐 설계, Nest.js, gRPC를 이용한 서버 개발</p>
+      <p>데이터 전처리, 서비스 아키텍쳐 설계, Nest.js, gRPC를 이용한 서버 개발</p>
       <p>인프라 구축/관리, CI/CD 파이프라인 구축</p>
     </td>
   </tr>
