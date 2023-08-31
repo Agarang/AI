@@ -110,13 +110,13 @@
   </tr>
   <tr>
     <td align="center">
-      <p>아이디어 구상 및 기획, 데이터 수집 & 전처리, StyleGAN2-ADA 모델 설계</p>
+      <p>아이디어 구상 및 기획, 데이터 수집 & 전처리, StyleGAN2모델 설계</p>
     </td>
     <td align="center">
-      <p>아이디어 기획, 데이터 전처리, StyleGAN2-ADA 모델 설계</p>
+      <p>아이디어 기획, 데이터 전처리, StyleGAN2모델 설계</p>
     </td>
     <td align="center">
-      <p>데이터 전처리, StyleGAN2-ADA 모델 설계, 챗봇 서비스 개발</p>
+      <p>데이터 전처리, StyleGAN2모델 설계, 챗봇 서비스 개발</p>
     </td>
     <td align="center">
       <p>UX/UI 디자인</p>
